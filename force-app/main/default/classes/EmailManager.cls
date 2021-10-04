@@ -10,5 +10,6 @@ public class EmailManager{
             emails.add(email);
         }
         Messaging.sendEmail(emails);
+        //envio do e-mail
     }
 }
