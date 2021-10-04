@@ -8,5 +8,6 @@ public class EscolaTriggerHandler extends TriggerHandler {
             System.debug('Escola razão social = ' + escola.RazaoSocial__c);
         }
         //comentario de indicação e teste
+        //novo comentario 01
     }    
 }
