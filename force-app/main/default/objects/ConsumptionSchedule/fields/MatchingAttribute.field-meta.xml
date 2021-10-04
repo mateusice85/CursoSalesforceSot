@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MatchingAttribute</fullName>
+    <inlineHelpText>O uso terá correspondência com uma programação de consumo se os registros compartilharem o mesmo valor de Atributo de correspondência.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

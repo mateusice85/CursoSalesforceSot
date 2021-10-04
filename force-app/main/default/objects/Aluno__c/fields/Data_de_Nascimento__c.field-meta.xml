@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Data_de_Nascimento__c</fullName>
+    <description>Data de nascimento do aluno.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Entre com a data de nascimento do aluno.</inlineHelpText>
+    <label>Data de Nascimento</label>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Estagio__c</fullName>
+    <externalId>false</externalId>
+    <label>Estágio</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Cliente em potencial</fullName>
+                <default>false</default>
+                <label>Cliente em potencial</label>
+            </value>
+            <value>
+                <fullName>Em visitação</fullName>
+                <default>false</default>
+                <label>Em visitação</label>
+            </value>
+            <value>
+                <fullName>Oferta</fullName>
+                <default>false</default>
+                <label>Oferta</label>
+            </value>
+            <value>
+                <fullName>Fechamento</fullName>
+                <default>false</default>
+                <label>Fechamento</label>
+            </value>
+            <value>
+                <fullName>Arquivo</fullName>
+                <default>false</default>
+                <label>Arquivo</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

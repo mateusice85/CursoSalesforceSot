@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Situacao__c</fullName>
+    <description>imgStatus</description>
+    <externalId>false</externalId>
+    <formula>IF(Ativo__c, IMAGE(&quot;/resource/IndicadorVerde&quot;, &quot;imgVerde&quot;, 25, 25), IMAGE(&quot;/resource/1577468329000/IndicadorVermelho?&quot;, &quot;imgVermelho&quot;, 25, 25))</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <inlineHelpText>imgStatus</inlineHelpText>
+    <label>Situação</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

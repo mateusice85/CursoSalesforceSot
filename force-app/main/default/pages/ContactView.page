@@ -1,0 +1,14 @@
+<apex:page standardController="Contact">
+    
+    <apex:pageBlock title="Account Summary">
+        
+        <apex:pageBlockSection >
+            
+            Name: {! Contact.Name }
+            Last Name: {! Contact.Last_Name__c }
+            
+
+        </apex:pageBlockSection>
+    </apex:pageBlock>
+    
+</apex:page>

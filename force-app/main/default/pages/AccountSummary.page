@@ -1,0 +1,12 @@
+<apex:page standardController="Aluno__c">
+    
+    <apex:pageBlock title="Account Summary">
+        
+        <apex:pageBlockSection >
+            
+            Name: {! Aluno__c.Name }
+
+        </apex:pageBlockSection>
+    </apex:pageBlock>
+    
+</apex:page>

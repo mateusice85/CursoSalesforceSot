@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>New_Offer__c</fullName>
+    <externalId>false</externalId>
+    <label>New Offer</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Opportunity Name</fullName>
+                <default>false</default>
+                <label>Opportunity Name</label>
+            </value>
+            <value>
+                <fullName>Close Date</fullName>
+                <default>false</default>
+                <label>Close Date</label>
+            </value>
+            <value>
+                <fullName>Stage</fullName>
+                <default>false</default>
+                <label>Stage</label>
+            </value>
+            <value>
+                <fullName>and Amount</fullName>
+                <default>false</default>
+                <label>and Amount</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

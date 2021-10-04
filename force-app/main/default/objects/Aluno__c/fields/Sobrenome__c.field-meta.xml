@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sobrenome__c</fullName>
+    <description>Sobrenome do aluno.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Entre com o sobrenome do aluno.</inlineHelpText>
+    <label>Sobrenome</label>
+    <length>155</length>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

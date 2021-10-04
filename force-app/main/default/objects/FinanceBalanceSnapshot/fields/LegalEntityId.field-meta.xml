@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LegalEntityId</fullName>
+    <inlineHelpText>Entidade jurídica associada à transação de finanças. Pesquisa opcional que você pode adicionar para associar a transação de finanças a regras de GL para processamento de razão externo.</inlineHelpText>
+    <type>Lookup</type>
+</CustomField>

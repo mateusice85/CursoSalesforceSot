@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Type</fullName>
+    <inlineHelpText>Intervalo: a agenda precifica usando somente a camada que se aplica à quantidade de uso. Patamar: o uso em um limite determinado recebe preço igual ao valor da sua camada.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>
