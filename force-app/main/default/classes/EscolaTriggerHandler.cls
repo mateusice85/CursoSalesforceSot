@@ -7,7 +7,5 @@ public class EscolaTriggerHandler extends TriggerHandler {
             UtilHelper.servicoAtualizarNomePorCNPJ(escola.Id);
             System.debug('Escola razão social = ' + escola.RazaoSocial__c);
         }
-        //comentario de indicação e teste
-        //novo comentario 01
     }    
 }
